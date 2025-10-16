@@ -1,3 +1,4 @@
+// aprendiendo a utilizar git  
 #include <iostream>
 #include "Hotel.h"
 
